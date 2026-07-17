@@ -1,0 +1,6 @@
+{
+  "name": "HAU Application and System Integration (ReactJS) Course Platform",
+  "description": "The official course information portal for the Holy Angel University School of Computing - Department of Computer Science. This portal features course syllabus, outcomes, syllabus modules, academic policies, and interactive student tools for Learning ReactJS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
